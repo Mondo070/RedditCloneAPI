@@ -1,0 +1,1 @@
+ALTER TABLE subreddits ADD COLUMN date_created timestamp DEFAULT current_date;
